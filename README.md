@@ -23,12 +23,12 @@ Multilanguage Text-to-Speech (TTS) technology converts written text into spoken 
 <table>
     <tbody>
         <tr>
-            <td><img src="./img/img-2.png" alt="image"></td>
-            <td><img src="./img/img-3.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-2.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-3.png" alt="image"></td>
         </tr>
         <tr>
-            <td><img src="./img/img-4.png" alt="image"></td>
-            <td><img src="./img/img-5.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-4.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-5.png" alt="image"></td>
         </tr>
     </tbody>
 </table>
@@ -40,60 +40,60 @@ Multilanguage Text-to-Speech (TTS) technology converts written text into spoken 
 <table>
 <tbody>
 <tr>
-<td>
+<td width="50%">
 <video src="https://github.com/user-attachments/assets/a74c0ab1-d427-43b4-97e5-4a1259475303" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to English female audio](https://raw.githubusercontent.com/hakcats/ai-text-to-speech-multilanguage-tts-neural-network-voice-synthesis-tool/master/audio/1.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src="https://github.com/user-attachments/assets/bc1ff70b-f014-412d-9e4c-0ee9fec6cdbf" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to English kid audio](https://raw.githubusercontent.com/hakcats/ai-text-to-speech-multilanguage-tts-neural-network-voice-synthesis-tool/master/audio/2.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src="https://github.com/user-attachments/assets/85572886-8737-41ef-b894-be433c8efe50" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to English male audio](https://raw.githubusercontent.com/hakcats/ai-text-to-speech-multilanguage-tts-neural-network-voice-synthesis-tool/master/audio/3.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src="https://github.com/user-attachments/assets/3ed5afa0-d17e-4e04-8b76-a8bc37b715d4" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to French female audio](https://raw.githubusercontent.com/hakcats/ai-text-to-speech-multilanguage-tts-neural-network-voice-synthesis-tool/master/audio/4.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src="https://github.com/user-attachments/assets/cca65e87-1afb-4e16-9088-627791d463c3" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to Spanish female audio](https://raw.githubusercontent.com/hakcats/ai-text-to-speech-multilanguage-tts-neural-network-voice-synthesis-tool/master/audio/5.mp3)
 
